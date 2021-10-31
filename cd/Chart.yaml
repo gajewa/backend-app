@@ -3,5 +3,5 @@ name: backend-app
 version: 1.0.0
 dependencies:
   - name: backend-deployment
-    version: 0.1.0
+    version: 0.1.1
     repository: http://gajewa.github.io/helm-repository/
